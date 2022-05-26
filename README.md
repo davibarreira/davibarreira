@@ -17,6 +17,7 @@
 -----
 
 #### Current Mathematical Interests
+- 🐱 Applied Category Theory;
 - 🕷️ Optimal Transport;
 - 🤖 Machine Learning;
 - 🎲 Probability/Measure Theory.
