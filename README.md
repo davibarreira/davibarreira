@@ -18,6 +18,8 @@
 
 #### Current Mathematical Interests
 - 🐱 Applied Category Theory;
+- :triangular_ruler: Geometric Algebra;
+- :globe_with_meridians: Conformal Geometry;
 - 🕷️ Optimal Transport;
 - 🤖 Machine Learning;
 - 🎲 Probability/Measure Theory.
